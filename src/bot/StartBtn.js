@@ -9,6 +9,6 @@ export default function StartBtn(props){
 
 
     return (
-        <button className='start-btn' onClick={() => initialAction()}>Qual a sua dúvida?</button>
+        <button className='start-btn' onClick={() => initialAction()}>Iniciar</button>
     )
 }
